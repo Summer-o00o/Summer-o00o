@@ -54,6 +54,18 @@ An [Amazon Nova AI Hackathon](https://amazon-nova.devpost.com) project that help
 - Built REST APIs to deliver filtered results to the frontend
 - Gallery: [Dog Park Home Finder on Devpost](https://devpost.com/software/dog-park-home-finder)
 
+### In-Browser Alt Text Generator
+
+A browser-based accessibility demo that generates concise image alt text locally with multimodal and text-only models.
+
+- Built with Vite, TypeScript, and `@huggingface/transformers`
+- Used `SmolVLM-256M-Instruct` to describe uploaded images directly in the browser
+- Added a `SmolLM2-360M-Instruct` rewrite loop to shorten outputs toward a target alt-text length
+- Exposed the full generation trace so users can inspect the original vision output and each rewrite pass
+- Used `WebGPU` when available with a `WASM` fallback for broader browser support
+- Demo: [In-Browser Alt Text Generator](https://summerwang.dev/in-browser-multimodel-llm-alt-text-generator/)
+- Repo: [In-Browser Multimodel LLM Alt Text Generator](https://github.com/Summer-o00o/in-browser-multimodel-llm-alt-text-generator)
+
 ## Experience
 
 ### Research Technician
