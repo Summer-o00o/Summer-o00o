@@ -69,15 +69,16 @@ A browser-based accessibility demo that generates concise image alt text locally
 ## Experience
 
 ### Research Technician
-Oklahoma Medical Research Foundation | Dec 2015 - Jul 2022
+Oklahoma Medical Research Foundation | Past
 
 - Developed Python programs to automate laboratory data analysis, reducing routine analysis time by 50%
 - Built a Java GUI application to manage specimen records, improving specimen input turnaround time by 30%
 
 ## Education
 
-- University of Oklahoma, MS in Microbiology, 2015
-- Ocean University of China, BS in Biological Science, 2011
+- Boston University, MS in Software Development
+- University of Oklahoma, MS in Microbiology
+- Ocean University of China, BS in Biological Science
 
 ## Recognition
 
