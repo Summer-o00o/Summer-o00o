@@ -16,31 +16,35 @@ I'm currently pursuing an M.S. in Computer Science at Georgia Tech and continuin
 - **AI & ML:** Amazon Nova, SmolVLM, Hugging Face Transformers, OpenAI API
 - **Other:** Git, Linux, JUnit
 
-## Featured Projects
+## Featured Hackathon Projects
 
 ### Private Pet Vaccine Pass
+**MLH × Midnight Hackathon — August 2026**
 
-An **MLH × Midnight Hackathon** project that uses zero-knowledge proofs to verify a pet's vaccination status without exposing the underlying medical record.
+A privacy-preserving application that uses zero-knowledge proofs to verify a pet's vaccination status without exposing the underlying medical record.
 
 - Built two React/TypeScript PWA experiences for pet owners and verifiers
 - Designed QR-based credential and verification flows
 - Implemented proof logic with Midnight Compact
-- Used Midnight SDKs to connect credential, wallet, and proof workflows
-- Designed the verification flow so a verifier can confirm vaccination coverage without receiving the pet's full private record
+- Integrated Midnight SDKs for credential, wallet, and proof workflows
+- Designed verification so a verifier can confirm vaccination coverage without receiving the pet's full private record
 
 [View on Devpost](https://devpost.com/software/private-pet-vaccine-pass)
 
 ### Dog-Friendly Real Estate Finder
+**Amazon Nova AI Hackathon — March 2026**
 
-An [Amazon Nova AI Hackathon](https://amazon-nova.devpost.com) project inspired by a problem I experienced as a dog owner: finding homes near good dog parks.
+A home-search application inspired by a problem I experienced as a dog owner: finding homes near good dog parks.
 
 - Built with Spring Boot and React
 - Used Amazon Nova to interpret natural-language search requests
-- Integrated real estate APIs, Google Maps, and Google Places
+- Integrated real-estate APIs, Google Maps, and Google Places
 - Built geospatial filtering and ranking logic
 - Used Redis caching to reduce repeated API requests
 
 [View on Devpost](https://devpost.com/software/dog-park-home-finder)
+
+## Selected Projects
 
 ### Airbnb AskBot
 
