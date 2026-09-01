@@ -77,8 +77,7 @@ A browser-based accessibility project that runs multimodal inference locally wit
 - Exposed the generation process so users can inspect the initial output and rewrite passes
 - Used WebGPU when available with a WASM fallback for broader browser compatibility
 
-[Live Demo](https://summerwang.dev/in-browser-multimodel-llm-alt-text-generator/)  
-[Repository](https://github.com/Summer-o00o/in-browser-multimodel-llm-alt-text-generator)
+[Live Demo](https://summerwang.dev/in-browser-multimodel-llm-alt-text-generator/)
 
 ## My Story
 
